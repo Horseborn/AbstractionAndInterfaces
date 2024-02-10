@@ -12,3 +12,4 @@ C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\abstractionAndInterfaces\abstract
 C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\abstractionAndInterfaces\abstractionAndInterfaces\obj\Debug\net8.0\abstractionAndInterfaces.pdb
 C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\abstractionAndInterfaces\abstractionAndInterfaces\obj\Debug\net8.0\abstractionAndInterfaces.genruntimeconfig.cache
 C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\abstractionAndInterfaces\abstractionAndInterfaces\obj\Debug\net8.0\ref\abstractionAndInterfaces.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\abstractionAndInterfaces\abstractionAndInterfaces\obj\Debug\net8.0\abstractionAndInterfaces.sourcelink.json

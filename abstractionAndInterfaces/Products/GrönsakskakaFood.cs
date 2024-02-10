@@ -35,6 +35,6 @@ public class GrönsakskakaFood : Product, IOffice, IKitchen
     public string Office()
     {
         return "A great and filling dish to eat at work, as long as" +
-               "it is not prepared with seafood. Do not ever bring seafood to work.";
+               " it is not prepared with seafood. Do not ever bring seafood to work.";
     }
 }
