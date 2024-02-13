@@ -13,7 +13,7 @@ public class FreddeDesk : Product, IOffice, IBedroom, IAssemblable
     {
         return 1500.00f;
     }
-
+    
     public override string Description()
     {
         return "How do you make the perfect gaming station? That's what we set out to do with FREDDE " +
